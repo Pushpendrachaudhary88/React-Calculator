@@ -98,3 +98,16 @@ P{
   margin-right: 8px;
 
 }
+
+.button:hover{
+  background-color: rgb(125, 110, 110);
+}
+
+.button-button1:hover{
+  background-color: rgb(125, 110, 110);
+
+}
+
+.button-button2:hover{
+  background-color: rgb(125, 110, 110);
+}
